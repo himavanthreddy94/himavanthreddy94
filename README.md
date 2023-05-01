@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himavanth Reddy</h1>
 <h3 align="center">A passionate Frontend React developer from India</h3>
-<img align="right" alt="coding" width="300" scr="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
+<img align="right" alt="coding" width="300" scr="https://www.behance.net/gallery/161921919/Portrait-animated-gif?tracking_source=search_projects%7Canimated+portrait"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himavanthreddy94&label=Profile%20views&color=0e75b6&style=flat" alt="himavanthreddy94" /> </p>
 
