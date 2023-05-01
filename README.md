@@ -1,5 +1,6 @@
-<h1 align="center">Hi <div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I'm Himavanth Reddy</h1>
+<h1 align="center">Hi 👋, I'm Himavanth Reddy</h1>
 <h3 align="center">A passionate Frontend React developer from India</h3>
+<img align="right" alt="coding" width="300" scr="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himavanthreddy94&label=Profile%20views&color=0e75b6&style=flat" alt="himavanthreddy94" /> </p>
 
