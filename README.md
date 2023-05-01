@@ -22,6 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himavanthreddy94&show_icons=true&locale=en&layout=compact" alt="himavanthreddy94" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himavanthreddy94&show_icons=true&locale=en" alt="himavanthreddy94" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himavanthreddy94&" alt="himavanthreddy94" /></p>
