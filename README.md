@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himavanthreddy94&label=Profile%20views&color=0e75b6&style=flat" alt="himavanthreddy94" /> </p>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [himavanthreddy94](himavanthreddy94)
 
