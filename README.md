@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Himavanth Reddy</h1>
-<h3 align="center">A passionate Frontend React developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himavanthreddy94&label=Profile%20views&color=0e75b6&style=flat" alt="himavanthreddy94" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [himavanthreddy94](himavanthreddy94)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Dynatrace - APM Tool**
 
 - 📫 How to reach me **himavanthreddy.info@gmail.com**
 
