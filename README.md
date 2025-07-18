@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [himavanthreddy94](himavanthreddy94)
 
-- 💬 Ask me about **Dynatrace - APM Tool**
+- 💬 Ask me about **DevOps | Dynatrace - APM Tool**
 
 - 📫 How to reach me **himavanthreddy.info@gmail.com**
 
